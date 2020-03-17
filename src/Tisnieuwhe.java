@@ -1,4 +1,4 @@
 
 public class Tisnieuwhe {
-	String i = "penis";
+	String i = "anus";
 }
